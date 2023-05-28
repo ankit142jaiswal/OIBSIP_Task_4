@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quizo</string>
+    <string name="total_question">Total Question</string>
+    <string name="ans_c">Ans C</string>
+    <string name="this_will_be_the_question">This will be the question</string>
+</resources>
